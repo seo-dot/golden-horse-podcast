@@ -1,4 +1,28 @@
 {
-  "processed_urls": [],
-  "episodes": []
+  "processed_urls": [
+    "https://golden-horse.ae/services/car-radiator-cleaning/"
+  ],
+  "episodes": [
+    {
+      "file": "2026-10-06-car-radiator-cleaning-in-dubai.mp3",
+      "video": "2026-10-06-car-radiator-cleaning-in-dubai.mp4",
+      "srt": "2026-10-06-car-radiator-cleaning-in-dubai.srt",
+      "title": "Car Radiator Cleaning Review",
+      "description": "Car Service Podcast: a guest's experience with Car Radiator Cleaning at Golden Horse in Dubai: https://golden-horse.ae/services/car-radiator-cleaning/",
+      "youtube_title": "Review of Car Radiator Cleaning at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/RbDJQvch25M",
+      "plan": {
+        "story": "warning-light",
+        "guest": "uk-solo",
+        "expert_topic": "oil-interval",
+        "segment": "care-lifehack",
+        "giveaway": true
+      },
+      "source_url": "https://golden-horse.ae/services/car-radiator-cleaning/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/06/car_radiator_cleaning_2.webp",
+      "pub_date": "Tue, 06 Oct 2026 12:45:03 +0000",
+      "duration_sec": 121,
+      "bytes": 1943524
+    }
+  ]
 }
