@@ -1,6 +1,7 @@
 {
   "processed_urls": [
-    "https://golden-horse.ae/services/car-radiator-cleaning/"
+    "https://golden-horse.ae/services/car-radiator-cleaning/",
+    "https://golden-horse.ae/services/evaporator-replacement/"
   ],
   "episodes": [
     {
@@ -23,6 +24,27 @@
       "pub_date": "Tue, 06 Oct 2026 12:45:03 +0000",
       "duration_sec": 121,
       "bytes": 1943524
+    },
+    {
+      "file": "2026-10-06-car-evaporator-replacement-in-dubai.mp3",
+      "video": "2026-10-06-car-evaporator-replacement-in-dubai.mp4",
+      "srt": "2026-10-06-car-evaporator-replacement-in-dubai.srt",
+      "title": "Evaporator Replacement Relief",
+      "description": "Car Service Podcast: a guest's experience with Car Evaporator Replacement at Golden Horse in Dubai: https://golden-horse.ae/services/evaporator-replacement/",
+      "youtube_title": "Review of Car Evaporator Replacement at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/90e9FvzlPhU",
+      "plan": {
+        "story": "overdue-service",
+        "guest": "german-couple",
+        "expert_topic": "ac-summer",
+        "segment": "warning-sign",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/evaporator-replacement/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/06/Evaporator_Replacement_1.webp",
+      "pub_date": "Tue, 06 Oct 2026 21:19:49 +0000",
+      "duration_sec": 109,
+      "bytes": 1760356
     }
   ]
 }
