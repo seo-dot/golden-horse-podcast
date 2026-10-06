@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+tmp/
+*.log
+videos/
+tmp/
+client_secret.json
+.venv/
+venv/
+knowledge.json

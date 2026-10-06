@@ -1,0 +1,105 @@
+name: Daily podcast episode
+
+on:
+  schedule:
+    # GitHub может задержать/пропустить слот, поэтому их два. Защита от дублей в main.py
+    # гарантирует не больше одного выпуска в сутки: если утренний уже отработал —
+    # дневной просто выйдет.
+    - cron: "10 6 * * *"    # ~09:10 по Минску
+    - cron: "10 14 * * *"   # ~17:10 по Минску (страховка)
+  workflow_dispatch:       # ручной запуск кнопкой в GitHub
+    inputs:
+      force:
+        description: "Создать выпуск, даже если сегодня уже был (для тестов)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # чтобы бот мог коммитить эпизоды/feed/state
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-podcast
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install ffmpeg and fonts
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu fonts-liberation
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Generate episode
+        env:
+          PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+          PODCAST_TITLE: ${{ vars.PODCAST_TITLE }}
+          PODCAST_AUTHOR: ${{ vars.PODCAST_AUTHOR }}
+          PODCAST_EMAIL: ${{ vars.PODCAST_EMAIL }}
+          PODCAST_DESCRIPTION: ${{ vars.PODCAST_DESCRIPTION }}
+          PODCAST_LANGUAGE: ${{ vars.PODCAST_LANGUAGE }}
+          PODCAST_CATEGORY: ${{ vars.PODCAST_CATEGORY }}
+          PODCAST_SITE: ${{ vars.PODCAST_SITE }}
+          SCRIPT_PROVIDER: ${{ vars.SCRIPT_PROVIDER }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
+          OPENROUTER_FALLBACK_MODELS: ${{ vars.OPENROUTER_FALLBACK_MODELS }}
+          CITY_PRIORITY: ${{ vars.CITY_PRIORITY }}
+          BRAND_PRIORITY: ${{ vars.BRAND_PRIORITY }}
+          FORCE: ${{ github.event.inputs.force }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: ${{ vars.GROQ_MODEL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TTS_PROVIDER: ${{ vars.TTS_PROVIDER }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: ${{ vars.AWS_REGION }}
+          POLLY_VOICE_A: ${{ vars.POLLY_VOICE_A }}
+          POLLY_VOICE_B: ${{ vars.POLLY_VOICE_B }}
+          POLLY_ENGINE: ${{ vars.POLLY_ENGINE }}
+          TTSMP3_API_KEY: ${{ secrets.TTSMP3_API_KEY }}
+          # видео + YouTube
+          VIDEO_ENABLED: ${{ vars.VIDEO_ENABLED }}
+          INTRO_SECONDS: ${{ vars.INTRO_SECONDS }}
+          RSS_ENABLED: ${{ vars.RSS_ENABLED }}
+          YOUTUBE_ENABLED: ${{ vars.YOUTUBE_ENABLED }}
+          YOUTUBE_PRIVACY: ${{ vars.YOUTUBE_PRIVACY }}
+          YOUTUBE_CATEGORY_ID: ${{ vars.YOUTUBE_CATEGORY_ID }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: python -m src.main
+
+      - name: Commit audio, subtitles, feed and state (video goes to YouTube, not the repo)
+        run: |
+          git config user.name "octane-podcast-bot"
+          git config user.email "actions@github.com"
+          git add episodes feed.xml state.json
+          git diff --staged --quiet || git commit -m "Daily episode $(date -u +%F)"
+          git push
+
+  # Публикуем репозиторий как сайт (episodes/*.mp3 и feed.xml становятся доступны по URL)
+  deploy-pages:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+      - id: deployment
+        uses: actions/deploy-pages@v4
