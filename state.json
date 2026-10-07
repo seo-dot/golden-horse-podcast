@@ -1,7 +1,8 @@
 {
   "processed_urls": [
     "https://golden-horse.ae/services/car-radiator-cleaning/",
-    "https://golden-horse.ae/services/evaporator-replacement/"
+    "https://golden-horse.ae/services/evaporator-replacement/",
+    "https://golden-horse.ae/services/car-window-switch-repair/"
   ],
   "episodes": [
     {
@@ -45,6 +46,27 @@
       "pub_date": "Tue, 06 Oct 2026 21:19:49 +0000",
       "duration_sec": 109,
       "bytes": 1760356
+    },
+    {
+      "file": "2026-10-07-car-window-switch-repair-in-dubai.mp3",
+      "video": "2026-10-07-car-window-switch-repair-in-dubai.mp4",
+      "srt": "2026-10-07-car-window-switch-repair-in-dubai.srt",
+      "title": "Car Window Switch Repair: Honest Second Opinion",
+      "description": "Car Service Podcast: a guest's experience with Car Window Switch Repair at Golden Horse in Dubai: https://golden-horse.ae/services/car-window-switch-repair/",
+      "youtube_title": "Review of Car Window Switch Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/Z19yPyxHfnM",
+      "plan": {
+        "story": "second-opinion",
+        "guest": "indian-pro",
+        "expert_topic": "brakes-signs",
+        "segment": "myth-busting",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/car-window-switch-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/05/car_window_switch_repair_5.webp",
+      "pub_date": "Wed, 07 Oct 2026 13:14:35 +0000",
+      "duration_sec": 133,
+      "bytes": 2133604
     }
   ]
 }
