@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/golden-horse-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 13:14:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:22:20 +0000</lastBuildDate>
     <itunes:author>Golden Horse</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/golden-horse-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Service Podcast — real customer experiences at Golden Horse Car Service in Dubai: engine, AC, brakes, suspension, transmission, bodywork, detailing and more, all makes incl. luxury. Book at https://golden-horse.ae</itunes:summary>
+    <item>
+      <title>Bumper Repair Story: Peace of Mind Before the Road</title>
+      <link>https://golden-horse.ae/services/bumper-repair/</link>
+      <description>Car Service Podcast: a guest's experience with Car Bumper Repair at Golden Horse in Dubai: https://golden-horse.ae/services/bumper-repair/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/golden-horse-podcast/episodes/2026-10-08-car-bumper-repair-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/golden-horse-podcast/episodes/2026-10-08-car-bumper-repair-in-dubai.mp3" length="2837476" type="audio/mpeg"/>
+      <pubDate>Thu, 08 Oct 2026 13:22:20 +0000</pubDate>
+      <itunes:duration>02:57</itunes:duration>
+    </item>
     <item>
       <title>Car Window Switch Repair: Honest Second Opinion</title>
       <link>https://golden-horse.ae/services/car-window-switch-repair/</link>
