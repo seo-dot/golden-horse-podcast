@@ -3,7 +3,8 @@
     "https://golden-horse.ae/services/car-radiator-cleaning/",
     "https://golden-horse.ae/services/evaporator-replacement/",
     "https://golden-horse.ae/services/car-window-switch-repair/",
-    "https://golden-horse.ae/services/bumper-repair/"
+    "https://golden-horse.ae/services/bumper-repair/",
+    "https://golden-horse.ae/services/car-light-repair/"
   ],
   "episodes": [
     {
@@ -89,6 +90,27 @@
       "pub_date": "Thu, 08 Oct 2026 13:22:20 +0000",
       "duration_sec": 177,
       "bytes": 2837476
+    },
+    {
+      "file": "2026-10-09-car-light-repair-in-dubai.mp3",
+      "video": "2026-10-09-car-light-repair-in-dubai.mp4",
+      "srt": "2026-10-09-car-light-repair-in-dubai.srt",
+      "title": "Car Light Repair: Luxury Owner Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Light Repair at Golden Horse in Dubai: https://golden-horse.ae/services/car-light-repair/",
+      "youtube_title": "Review of Car Light Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/aW5IiwylD_c",
+      "plan": {
+        "story": "luxury-care",
+        "guest": "american-creator",
+        "expert_topic": "battery-heat",
+        "segment": "care-lifehack",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/car-light-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Car_Light_Repair_6.webp",
+      "pub_date": "Fri, 09 Oct 2026 13:09:00 +0000",
+      "duration_sec": 113,
+      "bytes": 1810276
     }
   ]
 }
