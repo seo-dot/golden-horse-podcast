@@ -4,7 +4,8 @@
     "https://golden-horse.ae/services/evaporator-replacement/",
     "https://golden-horse.ae/services/car-window-switch-repair/",
     "https://golden-horse.ae/services/bumper-repair/",
-    "https://golden-horse.ae/services/car-light-repair/"
+    "https://golden-horse.ae/services/car-light-repair/",
+    "https://golden-horse.ae/services/shock-absorber-replacement/"
   ],
   "episodes": [
     {
@@ -111,6 +112,27 @@
       "pub_date": "Fri, 09 Oct 2026 13:09:00 +0000",
       "duration_sec": 113,
       "bytes": 1810276
+    },
+    {
+      "file": "2026-10-10-car-shock-absorber-replacement-in-dubai.mp3",
+      "video": "2026-10-10-car-shock-absorber-replacement-in-dubai.mp4",
+      "srt": "2026-10-10-car-shock-absorber-replacement-in-dubai.srt",
+      "title": "Shock Absorber Replacement Story: French Driver's Pre‑Purchase Check",
+      "description": "Car Service Podcast: a guest's experience with Car Shock Absorber Replacement at Golden Horse in Dubai: https://golden-horse.ae/services/shock-absorber-replacement/",
+      "youtube_title": "Review of Car Shock Absorber Replacement at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/rLxrAPzHxhw",
+      "plan": {
+        "story": "used-car",
+        "guest": "french-couple",
+        "expert_topic": "suspension",
+        "segment": "warning-sign",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/shock-absorber-replacement/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/05/Shock_Absorber_Replacement_6.webp",
+      "pub_date": "Sat, 10 Oct 2026 12:24:40 +0000",
+      "duration_sec": 112,
+      "bytes": 1794148
     }
   ]
 }
