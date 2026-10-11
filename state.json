@@ -5,7 +5,8 @@
     "https://golden-horse.ae/services/car-window-switch-repair/",
     "https://golden-horse.ae/services/bumper-repair/",
     "https://golden-horse.ae/services/car-light-repair/",
-    "https://golden-horse.ae/services/shock-absorber-replacement/"
+    "https://golden-horse.ae/services/shock-absorber-replacement/",
+    "https://golden-horse.ae/services/cylinder-head-repair/"
   ],
   "episodes": [
     {
@@ -133,6 +134,27 @@
       "pub_date": "Sat, 10 Oct 2026 12:24:40 +0000",
       "duration_sec": 112,
       "bytes": 1794148
+    },
+    {
+      "file": "2026-10-11-car-cylinder-head-repair-in-dubai.mp3",
+      "video": "2026-10-11-car-cylinder-head-repair-in-dubai.mp4",
+      "srt": "2026-10-11-car-cylinder-head-repair-in-dubai.srt",
+      "title": "Cylinder Head Repair Story",
+      "description": "Car Service Podcast: a guest's experience with Car Cylinder Head Repair at Golden Horse in Dubai: https://golden-horse.ae/services/cylinder-head-repair/",
+      "youtube_title": "Review of Car Cylinder Head Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/jAz2A5zn70Q",
+      "plan": {
+        "story": "breakdown",
+        "guest": "russian-expat",
+        "expert_topic": "pre-purchase",
+        "segment": "myth-busting",
+        "giveaway": true
+      },
+      "source_url": "https://golden-horse.ae/services/cylinder-head-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/05/Cylinder_Head_Repair_1.webp",
+      "pub_date": "Sun, 11 Oct 2026 12:41:46 +0000",
+      "duration_sec": 132,
+      "bytes": 2127460
     }
   ]
 }
