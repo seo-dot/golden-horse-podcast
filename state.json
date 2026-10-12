@@ -6,7 +6,8 @@
     "https://golden-horse.ae/services/bumper-repair/",
     "https://golden-horse.ae/services/car-light-repair/",
     "https://golden-horse.ae/services/shock-absorber-replacement/",
-    "https://golden-horse.ae/services/cylinder-head-repair/"
+    "https://golden-horse.ae/services/cylinder-head-repair/",
+    "https://golden-horse.ae/services/car-fuse-repair/"
   ],
   "episodes": [
     {
@@ -155,6 +156,27 @@
       "pub_date": "Sun, 11 Oct 2026 12:41:46 +0000",
       "duration_sec": 132,
       "bytes": 2127460
+    },
+    {
+      "file": "2026-10-12-car-fuse-repair-in-dubai.mp3",
+      "video": "2026-10-12-car-fuse-repair-in-dubai.mp4",
+      "srt": "2026-10-12-car-fuse-repair-in-dubai.srt",
+      "title": "Car Fuse Repair Story",
+      "description": "Car Service Podcast: a guest's experience with Car Fuse Repair at Golden Horse in Dubai: https://golden-horse.ae/services/car-fuse-repair/",
+      "youtube_title": "Review of Car Fuse Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/ips1KE4xLRI",
+      "plan": {
+        "story": "warning-light",
+        "guest": "nigerian-solo",
+        "expert_topic": "maintenance-plan",
+        "segment": "service-duel",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/car-fuse-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/05/Car_Fuse_Repair_6.webp",
+      "pub_date": "Mon, 12 Oct 2026 15:16:02 +0000",
+      "duration_sec": 133,
+      "bytes": 2137060
     }
   ]
 }
