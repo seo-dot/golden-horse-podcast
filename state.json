@@ -8,7 +8,8 @@
     "https://golden-horse.ae/services/shock-absorber-replacement/",
     "https://golden-horse.ae/services/cylinder-head-repair/",
     "https://golden-horse.ae/services/car-fuse-repair/",
-    "https://golden-horse.ae/services/windshield-repair/"
+    "https://golden-horse.ae/services/windshield-repair/",
+    "https://golden-horse.ae/services/head-gasket-repair/"
   ],
   "episodes": [
     {
@@ -199,6 +200,27 @@
       "pub_date": "Tue, 13 Oct 2026 14:06:56 +0000",
       "duration_sec": 146,
       "bytes": 2350948
+    },
+    {
+      "file": "2026-10-14-car-head-gasket-repair-in-dubai.mp3",
+      "video": "2026-10-14-car-head-gasket-repair-in-dubai.mp4",
+      "srt": "2026-10-14-car-head-gasket-repair-in-dubai.srt",
+      "title": "Car Head Gasket Repair — Second opinion",
+      "description": "Car Service Podcast: a guest's experience with Car Head Gasket Repair at Golden Horse in Dubai: https://golden-horse.ae/services/head-gasket-repair/",
+      "youtube_title": "Review of Car Head Gasket Repair at Golden Horse Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "second-opinion",
+        "guest": "emirati-local",
+        "expert_topic": "ac-summer",
+        "segment": "warning-sign",
+        "giveaway": true
+      },
+      "source_url": "https://golden-horse.ae/services/head-gasket-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Car_head_gasket_repair_4.webp",
+      "pub_date": "Wed, 14 Oct 2026 11:43:16 +0000",
+      "duration_sec": 82,
+      "bytes": 1317604
     }
   ]
 }
