@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/golden-horse-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:33:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:55:20 +0000</lastBuildDate>
     <itunes:author>Golden Horse</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/golden-horse-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Service Podcast — real customer experiences at Golden Horse Car Service in Dubai: engine, AC, brakes, suspension, transmission, bodywork, detailing and more, all makes incl. luxury. Book at https://golden-horse.ae</itunes:summary>
+    <item>
+      <title>Car Water Pump Repair — Sudden issue</title>
+      <link>https://golden-horse.ae/services/water-pump-repair/</link>
+      <description>Car Service Podcast: a guest's experience with Car Water Pump Repair at Golden Horse in Dubai: https://golden-horse.ae/services/water-pump-repair/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/golden-horse-podcast/episodes/2026-10-18-car-water-pump-repair-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/golden-horse-podcast/episodes/2026-10-18-car-water-pump-repair-in-dubai.mp3" length="1202788" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 10:55:20 +0000</pubDate>
+      <itunes:duration>01:15</itunes:duration>
+    </item>
     <item>
       <title>Car Timing Belt Replacement — Pre-purchase check</title>
       <link>https://golden-horse.ae/services/timing-belt-replacement/</link>
