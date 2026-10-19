@@ -13,7 +13,8 @@
     "https://golden-horse.ae/services/gearbox-oil-change/",
     "https://golden-horse.ae/services/engine-oil-leak-repair/",
     "https://golden-horse.ae/services/timing-belt-replacement/",
-    "https://golden-horse.ae/services/water-pump-repair/"
+    "https://golden-horse.ae/services/water-pump-repair/",
+    "https://golden-horse.ae/services/overheating-car-repair/"
   ],
   "episodes": [
     {
@@ -309,6 +310,27 @@
       "pub_date": "Sun, 18 Oct 2026 10:55:20 +0000",
       "duration_sec": 75,
       "bytes": 1202788
+    },
+    {
+      "file": "2026-10-19-overheating-car-repair-in-dubai.mp3",
+      "video": "2026-10-19-overheating-car-repair-in-dubai.mp4",
+      "srt": "2026-10-19-overheating-car-repair-in-dubai.srt",
+      "title": "Overheating Car Repair — Warning light",
+      "description": "Car Service Podcast: a guest's experience with Overheating Car Repair at Golden Horse in Dubai: https://golden-horse.ae/services/overheating-car-repair/",
+      "youtube_title": "Review of Overheating Car Repair at Golden Horse Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "warning-light",
+        "guest": "american-creator",
+        "expert_topic": "pre-purchase",
+        "segment": "myth-busting",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/overheating-car-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Overheating_Car_Repair_Cost_1.webp",
+      "pub_date": "Mon, 19 Oct 2026 12:57:16 +0000",
+      "duration_sec": 74,
+      "bytes": 1194340
     }
   ]
 }
