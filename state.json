@@ -15,7 +15,8 @@
     "https://golden-horse.ae/services/timing-belt-replacement/",
     "https://golden-horse.ae/services/water-pump-repair/",
     "https://golden-horse.ae/services/overheating-car-repair/",
-    "https://golden-horse.ae/services/car-starter-repair/"
+    "https://golden-horse.ae/services/car-starter-repair/",
+    "https://golden-horse.ae/services/crankshaft-replacement/"
   ],
   "episodes": [
     {
@@ -353,6 +354,27 @@
       "pub_date": "Tue, 20 Oct 2026 11:25:07 +0000",
       "duration_sec": 79,
       "bytes": 1273828
+    },
+    {
+      "file": "2026-10-21-car-crankshaft-replacement-in-dubai.mp3",
+      "video": "2026-10-21-car-crankshaft-replacement-in-dubai.mp4",
+      "srt": "2026-10-21-car-crankshaft-replacement-in-dubai.srt",
+      "title": "Car Crankshaft Replacement — Second opinion",
+      "description": "Car Service Podcast: a guest's experience with Car Crankshaft Replacement at Golden Horse in Dubai: https://golden-horse.ae/services/crankshaft-replacement/",
+      "youtube_title": "Review of Car Crankshaft Replacement at Golden Horse Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "second-opinion",
+        "guest": "russian-expat",
+        "expert_topic": "oil-interval",
+        "segment": "care-lifehack",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/crankshaft-replacement/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Crankshaft_Replacement_6.webp",
+      "pub_date": "Wed, 21 Oct 2026 11:40:52 +0000",
+      "duration_sec": 76,
+      "bytes": 1218532
     }
   ]
 }
