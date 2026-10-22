@@ -16,7 +16,8 @@
     "https://golden-horse.ae/services/water-pump-repair/",
     "https://golden-horse.ae/services/overheating-car-repair/",
     "https://golden-horse.ae/services/car-starter-repair/",
-    "https://golden-horse.ae/services/crankshaft-replacement/"
+    "https://golden-horse.ae/services/crankshaft-replacement/",
+    "https://golden-horse.ae/services/turbocharger-replacement/"
   ],
   "episodes": [
     {
@@ -375,6 +376,27 @@
       "pub_date": "Wed, 21 Oct 2026 11:40:52 +0000",
       "duration_sec": 76,
       "bytes": 1218532
+    },
+    {
+      "file": "2026-10-22-car-turbocharger-replacement-in-dubai.mp3",
+      "video": "2026-10-22-car-turbocharger-replacement-in-dubai.mp4",
+      "srt": "2026-10-22-car-turbocharger-replacement-in-dubai.srt",
+      "title": "Car Turbocharger Replacement — Before a road trip",
+      "description": "Car Service Podcast: a guest's experience with Car Turbocharger Replacement at Golden Horse in Dubai: https://golden-horse.ae/services/turbocharger-replacement/",
+      "youtube_title": "Review of Car Turbocharger Replacement at Golden Horse Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "pre-trip",
+        "guest": "nigerian-solo",
+        "expert_topic": "ac-summer",
+        "segment": "warning-sign",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/turbocharger-replacement/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/turbocharger_replacement_1.webp",
+      "pub_date": "Thu, 22 Oct 2026 12:23:20 +0000",
+      "duration_sec": 75,
+      "bytes": 1210468
     }
   ]
 }
