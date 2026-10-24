@@ -18,7 +18,8 @@
     "https://golden-horse.ae/services/car-starter-repair/",
     "https://golden-horse.ae/services/crankshaft-replacement/",
     "https://golden-horse.ae/services/turbocharger-replacement/",
-    "https://golden-horse.ae/services/transfer-case-repair/"
+    "https://golden-horse.ae/services/transfer-case-repair/",
+    "https://golden-horse.ae/services/axle-repair/"
   ],
   "episodes": [
     {
@@ -419,6 +420,27 @@
       "pub_date": "Fri, 23 Oct 2026 11:30:20 +0000",
       "duration_sec": 80,
       "bytes": 1296868
+    },
+    {
+      "file": "2026-10-24-car-axle-repair-in-dubai.mp3",
+      "video": "2026-10-24-car-axle-repair-in-dubai.mp4",
+      "srt": "2026-10-24-car-axle-repair-in-dubai.srt",
+      "title": "Car Axle Repair — Pre-purchase check",
+      "description": "Car Service Podcast: a guest's experience with Car Axle Repair at Golden Horse in Dubai: https://golden-horse.ae/services/axle-repair/",
+      "youtube_title": "Review of Car Axle Repair at Golden Horse Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "used-car",
+        "guest": "emirati-local",
+        "expert_topic": "warning-lights",
+        "segment": "service-duel",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/axle-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/03/axle_repair_3.webp",
+      "pub_date": "Sat, 24 Oct 2026 10:49:54 +0000",
+      "duration_sec": 73,
+      "bytes": 1180900
     }
   ]
 }

@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/golden-horse-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 11:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:49:54 +0000</lastBuildDate>
     <itunes:author>Golden Horse</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/golden-horse-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Service Podcast — real customer experiences at Golden Horse Car Service in Dubai: engine, AC, brakes, suspension, transmission, bodywork, detailing and more, all makes incl. luxury. Book at https://golden-horse.ae</itunes:summary>
+    <item>
+      <title>Car Axle Repair — Pre-purchase check</title>
+      <link>https://golden-horse.ae/services/axle-repair/</link>
+      <description>Car Service Podcast: a guest's experience with Car Axle Repair at Golden Horse in Dubai: https://golden-horse.ae/services/axle-repair/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/golden-horse-podcast/episodes/2026-10-24-car-axle-repair-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/golden-horse-podcast/episodes/2026-10-24-car-axle-repair-in-dubai.mp3" length="1180900" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Oct 2026 10:49:54 +0000</pubDate>
+      <itunes:duration>01:13</itunes:duration>
+    </item>
     <item>
       <title>Car Transfer Case Repair — Luxury car owner</title>
       <link>https://golden-horse.ae/services/transfer-case-repair/</link>
