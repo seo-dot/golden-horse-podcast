@@ -20,7 +20,8 @@
     "https://golden-horse.ae/services/turbocharger-replacement/",
     "https://golden-horse.ae/services/transfer-case-repair/",
     "https://golden-horse.ae/services/axle-repair/",
-    "https://golden-horse.ae/services/differential-repair/"
+    "https://golden-horse.ae/services/differential-repair/",
+    "https://golden-horse.ae/services/hand-brake-repair/"
   ],
   "episodes": [
     {
@@ -463,6 +464,27 @@
       "pub_date": "Sun, 25 Oct 2026 11:15:30 +0000",
       "duration_sec": 74,
       "bytes": 1197796
+    },
+    {
+      "file": "2026-10-26-car-hand-brake-repair-in-dubai.mp3",
+      "video": "2026-10-26-car-hand-brake-repair-in-dubai.mp4",
+      "srt": "2026-10-26-car-hand-brake-repair-in-dubai.srt",
+      "title": "Car Hand Brake Repair — Warning light",
+      "description": "Car Service Podcast: a guest's experience with Car Hand Brake Repair at Golden Horse in Dubai: https://golden-horse.ae/services/hand-brake-repair/",
+      "youtube_title": "Review of Car Hand Brake Repair at Golden Horse Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "warning-light",
+        "guest": "german-couple",
+        "expert_topic": "suspension",
+        "segment": "warning-sign",
+        "giveaway": true
+      },
+      "source_url": "https://golden-horse.ae/services/hand-brake-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/03/Hand_brake_repair_5.webp",
+      "pub_date": "Mon, 26 Oct 2026 12:49:21 +0000",
+      "duration_sec": 81,
+      "bytes": 1299172
     }
   ]
 }
