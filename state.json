@@ -22,7 +22,8 @@
     "https://golden-horse.ae/services/axle-repair/",
     "https://golden-horse.ae/services/differential-repair/",
     "https://golden-horse.ae/services/hand-brake-repair/",
-    "https://golden-horse.ae/services/brake-light-repair/"
+    "https://golden-horse.ae/services/brake-light-repair/",
+    "https://golden-horse.ae/services/coil-springs-replacement/"
   ],
   "episodes": [
     {
@@ -507,6 +508,27 @@
       "pub_date": "Tue, 27 Oct 2026 12:02:03 +0000",
       "duration_sec": 73,
       "bytes": 1179748
+    },
+    {
+      "file": "2026-10-27-car-coil-springs-replacement-in-dubai.mp3",
+      "video": "2026-10-27-car-coil-springs-replacement-in-dubai.mp4",
+      "srt": "2026-10-27-car-coil-springs-replacement-in-dubai.srt",
+      "title": "Car Coil Springs Replacement — Second opinion",
+      "description": "Car Service Podcast: a guest's experience with Car Coil Springs Replacement at Golden Horse in Dubai: https://golden-horse.ae/services/coil-springs-replacement/",
+      "youtube_title": "Review of Car Coil Springs Replacement at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/IYmLW1IwUFc",
+      "plan": {
+        "story": "second-opinion",
+        "guest": "saudi-local",
+        "expert_topic": "maintenance-plan",
+        "segment": "service-duel",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/coil-springs-replacement/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/03/coil_springs_replacement_in_dubai.webp",
+      "pub_date": "Tue, 27 Oct 2026 14:04:14 +0000",
+      "duration_sec": 75,
+      "bytes": 1217380
     }
   ]
 }
