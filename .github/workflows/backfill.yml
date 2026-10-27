@@ -1,0 +1,63 @@
+name: Backfill YouTube uploads
+
+on:
+  schedule:
+    # Догоняет выпуски, оставшиеся без видео на YouTube. Пока секреты BACKFILL_* не заданы,
+    # запуск ничего не делает. Время выбрано заметно позже сброса суточной
+    # квоты YouTube (полночь по Тихоокеанскому времени = 07:00-08:00 UTC).
+    - cron: "55 8 * * *"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Сколько видео залить за запуск"
+        type: string
+        default: "2"
+
+permissions:
+  contents: write
+
+# Та же группа, что у daily.yml: догоняющая загрузка не идёт одновременно с ежедневным
+# выпуском, иначе git push одного из них будет отклонён.
+concurrency:
+  group: daily-podcast
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install ffmpeg and fonts
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu fonts-liberation
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Upload missing videos
+        env:
+          PODCAST_SITE: ${{ vars.PODCAST_SITE }}
+          VIDEO_ENABLED: "true"
+          INTRO_SECONDS: ${{ vars.INTRO_SECONDS }}
+          BACKFILL_LIMIT: ${{ github.event.inputs.limit || '2' }}
+          YOUTUBE_ENABLED: "true"
+          YOUTUBE_PRIVACY: ${{ vars.YOUTUBE_PRIVACY }}
+          YOUTUBE_CATEGORY_ID: ${{ vars.YOUTUBE_CATEGORY_ID }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.BACKFILL_YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.BACKFILL_YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.BACKFILL_YOUTUBE_REFRESH_TOKEN }}
+        run: python -m src.backfill
+
+      - name: Commit YouTube links
+        if: always()
+        run: |
+          git config user.name "octane-podcast-bot"
+          git config user.email "actions@github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "Backfill YouTube links $(date -u +%F)"
+          git pull --rebase
+          git push
