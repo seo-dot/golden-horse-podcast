@@ -1,0 +1,44 @@
+name: Requeue episodes without YouTube video (one-off)
+
+on:
+  push:
+    paths:
+      - ".github/workflows/requeue.yml"
+
+permissions:
+  contents: write
+
+# Та же группа, что у daily.yml: не работаем одновременно с ежедневным выпуском.
+concurrency:
+  group: daily-podcast
+  cancel-in-progress: false
+
+jobs:
+  requeue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Remove processed mark for episodes that never reached YouTube
+        run: |
+          python3 - <<'PY'
+          import json
+          path = "state.json"
+          s = json.load(open(path, encoding="utf-8"))
+          missing = {e["source_url"] for e in s["episodes"]
+                     if not e.get("youtube_url") and e.get("source_url")}
+          before = len(s["processed_urls"])
+          s["processed_urls"] = [u for u in s["processed_urls"] if u not in missing]
+          print(f"requeued {before - len(s['processed_urls'])} URLs "
+                f"({len(missing)} episodes without video)")
+          json.dump(s, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+          PY
+
+      - name: Commit state
+        run: |
+          git config user.name "octane-podcast-bot"
+          git config user.email "actions@github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "Requeue episodes without YouTube video"
+          git pull --rebase
+          git push
