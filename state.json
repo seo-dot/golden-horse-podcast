@@ -8,7 +8,8 @@
     "https://golden-horse.ae/services/cylinder-head-repair/",
     "https://golden-horse.ae/services/car-fuse-repair/",
     "https://golden-horse.ae/services/coil-springs-replacement/",
-    "https://golden-horse.ae/services/bumper-repair/"
+    "https://golden-horse.ae/services/bumper-repair/",
+    "https://golden-horse.ae/services/windshield-repair/"
   ],
   "episodes": [
     {
@@ -535,6 +536,27 @@
       "pub_date": "Wed, 28 Oct 2026 12:44:46 +0000",
       "duration_sec": 120,
       "bytes": 1922404
+    },
+    {
+      "file": "2026-10-29-car-windshield-repair-in-dubai.mp3",
+      "video": "2026-10-29-car-windshield-repair-in-dubai.mp4",
+      "srt": "2026-10-29-car-windshield-repair-in-dubai.srt",
+      "title": "Car Windshield Repair Experience at Golden Horse",
+      "description": "Car Service Podcast: a guest's experience with Car Windshield Repair at Golden Horse in Dubai: https://golden-horse.ae/services/windshield-repair/",
+      "youtube_title": "Review of Car Windshield Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/VaduS5xw8II",
+      "plan": {
+        "story": "luxury-care",
+        "guest": "french-couple",
+        "expert_topic": "ac-summer",
+        "segment": "warning-sign",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/windshield-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/06/windshield_repair_6.webp",
+      "pub_date": "Thu, 29 Oct 2026 12:53:57 +0000",
+      "duration_sec": 105,
+      "bytes": 1693156
     }
   ]
 }
