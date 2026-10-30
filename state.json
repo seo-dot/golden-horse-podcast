@@ -9,7 +9,8 @@
     "https://golden-horse.ae/services/car-fuse-repair/",
     "https://golden-horse.ae/services/coil-springs-replacement/",
     "https://golden-horse.ae/services/bumper-repair/",
-    "https://golden-horse.ae/services/windshield-repair/"
+    "https://golden-horse.ae/services/windshield-repair/",
+    "https://golden-horse.ae/services/head-gasket-repair/"
   ],
   "episodes": [
     {
@@ -557,6 +558,27 @@
       "pub_date": "Thu, 29 Oct 2026 12:53:57 +0000",
       "duration_sec": 105,
       "bytes": 1693156
+    },
+    {
+      "file": "2026-10-30-car-head-gasket-repair-in-dubai.mp3",
+      "video": "2026-10-30-car-head-gasket-repair-in-dubai.mp4",
+      "srt": "2026-10-30-car-head-gasket-repair-in-dubai.srt",
+      "title": "Head Gasket Repair Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Head Gasket Repair at Golden Horse in Dubai: https://golden-horse.ae/services/head-gasket-repair/",
+      "youtube_title": "Review of Car Head Gasket Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/0u7AoxfnzOA",
+      "plan": {
+        "story": "used-car",
+        "guest": "russian-expat",
+        "expert_topic": "brakes-signs",
+        "segment": "myth-busting",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/head-gasket-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Car_head_gasket_repair_4.webp",
+      "pub_date": "Fri, 30 Oct 2026 12:44:41 +0000",
+      "duration_sec": 120,
+      "bytes": 1929700
     }
   ]
 }
