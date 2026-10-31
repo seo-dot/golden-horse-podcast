@@ -10,7 +10,8 @@
     "https://golden-horse.ae/services/coil-springs-replacement/",
     "https://golden-horse.ae/services/bumper-repair/",
     "https://golden-horse.ae/services/windshield-repair/",
-    "https://golden-horse.ae/services/head-gasket-repair/"
+    "https://golden-horse.ae/services/head-gasket-repair/",
+    "https://golden-horse.ae/services/gearbox-oil-change/"
   ],
   "episodes": [
     {
@@ -579,6 +580,27 @@
       "pub_date": "Fri, 30 Oct 2026 12:44:41 +0000",
       "duration_sec": 120,
       "bytes": 1929700
+    },
+    {
+      "file": "2026-10-31-car-gearbox-oil-change-in-dubai.mp3",
+      "video": "2026-10-31-car-gearbox-oil-change-in-dubai.mp4",
+      "srt": "2026-10-31-car-gearbox-oil-change-in-dubai.srt",
+      "title": "Car Gearbox Oil Change Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Gearbox Oil Change at Golden Horse in Dubai: https://golden-horse.ae/services/gearbox-oil-change/",
+      "youtube_title": "Review of Car Gearbox Oil Change at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/2KM7TtaG6Ho",
+      "plan": {
+        "story": "breakdown",
+        "guest": "nigerian-solo",
+        "expert_topic": "warning-lights",
+        "segment": "service-duel",
+        "giveaway": true
+      },
+      "source_url": "https://golden-horse.ae/services/gearbox-oil-change/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/03/Gearbox_oil_change_1.webp",
+      "pub_date": "Sat, 31 Oct 2026 12:15:19 +0000",
+      "duration_sec": 121,
+      "bytes": 1950436
     }
   ]
 }
