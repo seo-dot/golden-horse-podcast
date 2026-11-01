@@ -11,7 +11,8 @@
     "https://golden-horse.ae/services/bumper-repair/",
     "https://golden-horse.ae/services/windshield-repair/",
     "https://golden-horse.ae/services/head-gasket-repair/",
-    "https://golden-horse.ae/services/gearbox-oil-change/"
+    "https://golden-horse.ae/services/gearbox-oil-change/",
+    "https://golden-horse.ae/services/engine-oil-leak-repair/"
   ],
   "episodes": [
     {
@@ -601,6 +602,27 @@
       "pub_date": "Sat, 31 Oct 2026 12:15:19 +0000",
       "duration_sec": 121,
       "bytes": 1950436
+    },
+    {
+      "file": "2026-11-01-car-engine-oil-leak-repair-in-dubai.mp3",
+      "video": "2026-11-01-car-engine-oil-leak-repair-in-dubai.mp4",
+      "srt": "2026-11-01-car-engine-oil-leak-repair-in-dubai.srt",
+      "title": "Car Engine Oil Leak Repair Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Engine Oil Leak Repair at Golden Horse in Dubai: https://golden-horse.ae/services/engine-oil-leak-repair/",
+      "youtube_title": "Review of Car Engine Oil Leak Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/0L3QnXCwQOE",
+      "plan": {
+        "story": "warning-light",
+        "guest": "filipino-pro",
+        "expert_topic": "battery-heat",
+        "segment": "care-lifehack",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/engine-oil-leak-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/03/Car_engine_oil_leak_repair.webp",
+      "pub_date": "Sun, 01 Nov 2026 13:14:56 +0000",
+      "duration_sec": 126,
+      "bytes": 2027620
     }
   ]
 }
