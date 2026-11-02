@@ -12,7 +12,8 @@
     "https://golden-horse.ae/services/windshield-repair/",
     "https://golden-horse.ae/services/head-gasket-repair/",
     "https://golden-horse.ae/services/gearbox-oil-change/",
-    "https://golden-horse.ae/services/engine-oil-leak-repair/"
+    "https://golden-horse.ae/services/engine-oil-leak-repair/",
+    "https://golden-horse.ae/services/timing-belt-replacement/"
   ],
   "episodes": [
     {
@@ -623,6 +624,27 @@
       "pub_date": "Sun, 01 Nov 2026 13:14:56 +0000",
       "duration_sec": 126,
       "bytes": 2027620
+    },
+    {
+      "file": "2026-11-02-car-timing-belt-replacement-in-dubai.mp3",
+      "video": "2026-11-02-car-timing-belt-replacement-in-dubai.mp4",
+      "srt": "2026-11-02-car-timing-belt-replacement-in-dubai.srt",
+      "title": "Timing Belt Replacement Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Timing Belt Replacement at Golden Horse in Dubai: https://golden-horse.ae/services/timing-belt-replacement/",
+      "youtube_title": "Review of Car Timing Belt Replacement at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/mdJ5WbdG-Oc",
+      "plan": {
+        "story": "overdue-service",
+        "guest": "emirati-local",
+        "expert_topic": "suspension",
+        "segment": "warning-sign",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/timing-belt-replacement/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/03/replacing_the_timing_belt_in_the_car.webp",
+      "pub_date": "Mon, 02 Nov 2026 15:44:54 +0000",
+      "duration_sec": 143,
+      "bytes": 2294116
     }
   ]
 }
