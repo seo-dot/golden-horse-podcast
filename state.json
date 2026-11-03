@@ -13,7 +13,8 @@
     "https://golden-horse.ae/services/head-gasket-repair/",
     "https://golden-horse.ae/services/gearbox-oil-change/",
     "https://golden-horse.ae/services/engine-oil-leak-repair/",
-    "https://golden-horse.ae/services/timing-belt-replacement/"
+    "https://golden-horse.ae/services/timing-belt-replacement/",
+    "https://golden-horse.ae/services/water-pump-repair/"
   ],
   "episodes": [
     {
@@ -645,6 +646,27 @@
       "pub_date": "Mon, 02 Nov 2026 15:44:54 +0000",
       "duration_sec": 143,
       "bytes": 2294116
+    },
+    {
+      "file": "2026-11-03-car-water-pump-repair-in-dubai.mp3",
+      "video": "2026-11-03-car-water-pump-repair-in-dubai.mp4",
+      "srt": "2026-11-03-car-water-pump-repair-in-dubai.srt",
+      "title": "Car Water Pump Repair Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Water Pump Repair at Golden Horse in Dubai: https://golden-horse.ae/services/water-pump-repair/",
+      "youtube_title": "Review of Car Water Pump Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/ExwjWcBKOmM",
+      "plan": {
+        "story": "second-opinion",
+        "guest": "uk-solo",
+        "expert_topic": "pre-purchase",
+        "segment": "myth-busting",
+        "giveaway": true
+      },
+      "source_url": "https://golden-horse.ae/services/water-pump-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Water-Pump-5.webp",
+      "pub_date": "Tue, 03 Nov 2026 14:06:06 +0000",
+      "duration_sec": 164,
+      "bytes": 2628196
     }
   ]
 }
