@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/golden-horse-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 14:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:23:58 +0000</lastBuildDate>
     <itunes:author>Golden Horse</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/golden-horse-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Service Podcast — real customer experiences at Golden Horse Car Service in Dubai: engine, AC, brakes, suspension, transmission, bodywork, detailing and more, all makes incl. luxury. Book at https://golden-horse.ae</itunes:summary>
+    <item>
+      <title>Overheating Car Repair Experience</title>
+      <link>https://golden-horse.ae/services/overheating-car-repair/</link>
+      <description>Car Service Podcast: a guest's experience with Overheating Car Repair at Golden Horse in Dubai: https://golden-horse.ae/services/overheating-car-repair/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/golden-horse-podcast/episodes/2026-11-04-overheating-car-repair-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/golden-horse-podcast/episodes/2026-11-04-overheating-car-repair-in-dubai.mp3" length="1768036" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Nov 2026 14:23:58 +0000</pubDate>
+      <itunes:duration>01:50</itunes:duration>
+    </item>
     <item>
       <title>Car Water Pump Repair Experience</title>
       <link>https://golden-horse.ae/services/water-pump-repair/</link>
