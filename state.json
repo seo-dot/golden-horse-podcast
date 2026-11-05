@@ -15,7 +15,8 @@
     "https://golden-horse.ae/services/engine-oil-leak-repair/",
     "https://golden-horse.ae/services/timing-belt-replacement/",
     "https://golden-horse.ae/services/water-pump-repair/",
-    "https://golden-horse.ae/services/overheating-car-repair/"
+    "https://golden-horse.ae/services/overheating-car-repair/",
+    "https://golden-horse.ae/services/car-starter-repair/"
   ],
   "episodes": [
     {
@@ -689,6 +690,27 @@
       "pub_date": "Wed, 04 Nov 2026 14:23:58 +0000",
       "duration_sec": 110,
       "bytes": 1768036
+    },
+    {
+      "file": "2026-11-05-car-starter-repair-in-dubai.mp3",
+      "video": "2026-11-05-car-starter-repair-in-dubai.mp4",
+      "srt": "2026-11-05-car-starter-repair-in-dubai.srt",
+      "title": "Car Starter Repair at Golden Horse",
+      "description": "Car Service Podcast: a guest's experience with Car Starter Repair at Golden Horse in Dubai: https://golden-horse.ae/services/car-starter-repair/",
+      "youtube_title": "Review of Car Starter Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/FCZFcfPGQ5k",
+      "plan": {
+        "story": "luxury-care",
+        "guest": "indian-pro",
+        "expert_topic": "oil-interval",
+        "segment": "care-lifehack",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/car-starter-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Car_Starter_Repair_6.webp",
+      "pub_date": "Thu, 05 Nov 2026 14:41:20 +0000",
+      "duration_sec": 241,
+      "bytes": 3868516
     }
   ]
 }
