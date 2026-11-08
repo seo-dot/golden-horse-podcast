@@ -18,7 +18,8 @@
     "https://golden-horse.ae/services/overheating-car-repair/",
     "https://golden-horse.ae/services/car-starter-repair/",
     "https://golden-horse.ae/services/crankshaft-replacement/",
-    "https://golden-horse.ae/services/turbocharger-replacement/"
+    "https://golden-horse.ae/services/turbocharger-replacement/",
+    "https://golden-horse.ae/services/transfer-case-repair/"
   ],
   "episodes": [
     {
@@ -755,6 +756,27 @@
       "pub_date": "Sat, 07 Nov 2026 12:54:20 +0000",
       "duration_sec": 103,
       "bytes": 1654756
+    },
+    {
+      "file": "2026-11-08-car-transfer-case-repair-in-dubai.mp3",
+      "video": "2026-11-08-car-transfer-case-repair-in-dubai.mp4",
+      "srt": "2026-11-08-car-transfer-case-repair-in-dubai.srt",
+      "title": "Car Transfer Case Repair Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Transfer Case Repair at Golden Horse in Dubai: https://golden-horse.ae/services/transfer-case-repair/",
+      "youtube_title": "Review of Car Transfer Case Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/OVdy9xQKF2o",
+      "plan": {
+        "story": "warning-light",
+        "guest": "french-couple",
+        "expert_topic": "warning-lights",
+        "segment": "service-duel",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/transfer-case-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Transfer-Case-Repair-1.webp",
+      "pub_date": "Sun, 08 Nov 2026 13:20:38 +0000",
+      "duration_sec": 318,
+      "bytes": 5091172
     }
   ]
 }

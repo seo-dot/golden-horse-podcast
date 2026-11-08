@@ -1,0 +1,439 @@
+1
+00:00:00,400 --> 00:00:02,944
+Hey everyone, welcome to Car Service
+Podcast.
+
+2
+00:00:03,294 --> 00:00:05,574
+I'm Sam, and with me is Alex.
+
+3
+00:00:05,924 --> 00:00:09,116
+Today we're diving into transfer case
+repair at Golden Horse.
+
+4
+00:00:09,466 --> 00:00:12,418
+Our guest is a French driver who loves his
+SUV.
+
+5
+00:00:12,767 --> 00:00:15,263
+Bonjour, I'm Julien.
+
+6
+00:00:15,613 --> 00:00:17,797
+Julien, thanks for joining us on the show.
+
+7
+00:00:18,147 --> 00:00:21,171
+So, what brought you to Golden Horse in
+the first place?
+
+8
+00:00:21,521 --> 00:00:25,745
+A weird whine from the rear every time I
+accelerated hard.
+
+9
+00:00:26,095 --> 00:00:29,575
+A whine? That sounds like a classic
+transfer case symptom.
+
+10
+00:00:29,925 --> 00:00:32,373
+Did any warning light pop up on the
+dashboard?
+
+11
+00:00:32,723 --> 00:00:37,091
+No light, just the noise and a faint
+vibration through the floor.
+
+12
+00:00:37,441 --> 00:00:38,737
+How did you book the appointment?
+
+13
+00:00:39,086 --> 00:00:43,694
+I booked online at golden-horse.ae, it
+took two minutes.
+
+14
+00:00:44,044 --> 00:00:47,236
+The website is pretty smooth and shows the
+price upfront.
+
+15
+00:00:47,586 --> 00:00:49,578
+What was the workshop like when you
+arrived?
+
+16
+00:00:49,928 --> 00:00:55,736
+Clean, organized, Al Quoz 3 on 22nd
+Street, Warehouse 4.
+
+17
+00:00:56,086 --> 00:00:58,894
+Warehouse 4 is the main service bay,
+right?
+
+18
+00:00:59,244 --> 00:01:03,972
+Exactly, the team greeted me in French,
+which felt personal.
+
+19
+00:01:04,322 --> 00:01:06,842
+That's a nice personal touch for a foreign
+customer.
+
+20
+00:01:07,192 --> 00:01:10,240
+Did they explain the diagnosis clearly
+before any work?
+
+21
+00:01:10,589 --> 00:01:15,773
+Yes, they ran a quick scan, found worn
+gears inside the case.
+
+22
+00:01:16,123 --> 00:01:19,195
+Worn gears inside the transfer case can
+cause that whine.
+
+23
+00:01:19,545 --> 00:01:24,033
+Right, they showed me the wear on a
+monitor, very transparent.
+
+24
+00:01:24,383 --> 00:01:27,575
+Transparent, no hidden surprises or
+upsells.
+
+25
+00:01:27,925 --> 00:01:29,941
+How long did the repair take overall?
+
+26
+00:01:30,291 --> 00:01:34,275
+A few hours, they kept me updated
+throughout the process.
+
+27
+00:01:34,625 --> 00:01:36,497
+And the price you paid for the repair?
+
+28
+00:01:36,847 --> 00:01:42,511
+From 350 AED, matched the online quote
+exactly.
+
+29
+00:01:42,860 --> 00:01:47,012
+Great, the service page lists price from
+350 AED.
+
+30
+00:01:47,362 --> 00:01:49,594
+How does the SUV feel now on the road?
+
+31
+00:01:49,944 --> 00:01:54,480
+Smooth, the whine is gone, power delivery
+feels solid.
+
+32
+00:01:54,830 --> 00:01:57,254
+That's exactly what we like to hear from a
+happy driver.
+
+33
+00:01:57,604 --> 00:02:00,076
+Did they give you any maintenance tips for
+the future?
+
+34
+00:02:00,426 --> 00:02:04,650
+They said check the transfer case fluid at
+every service interval.
+
+35
+00:02:05,000 --> 00:02:08,312
+Smart advice, fresh fluid keeps gears
+happy and quiet.
+
+36
+00:02:08,662 --> 00:02:11,710
+Now, Omar joins us for a quick expert tip.
+
+37
+00:02:12,059 --> 00:02:14,435
+Hi, I'm Omar from Golden Horse.
+
+38
+00:02:14,785 --> 00:02:18,097
+Omar, which dashboard warning lights
+should I never ignore?
+
+39
+00:02:18,447 --> 00:02:23,247
+From what we see, check engine, oil
+pressure, brake, battery, temperature.
+
+40
+00:02:23,597 --> 00:02:27,125
+Got it, act fast on those lights to avoid
+bigger issues.
+
+41
+00:02:27,475 --> 00:02:30,091
+Thanks, Omar, that's a solid reminder.
+
+42
+00:02:30,441 --> 00:02:32,241
+Anytime, happy to help.
+
+43
+00:02:32,591 --> 00:02:34,703
+Time for our Service Duel segment.
+
+44
+00:02:35,053 --> 00:02:38,365
+Fix now vs wait: a faint clunk from the
+transfer case.
+
+45
+00:02:38,714 --> 00:02:41,810
+Fix now — clunks usually mean gear wear
+starting.
+
+46
+00:02:42,160 --> 00:02:44,920
+Wait — sometimes it's just a loose bolt or
+mount.
+
+47
+00:02:45,270 --> 00:02:48,414
+But loose bolts can snap under load and
+cause damage.
+
+48
+00:02:48,764 --> 00:02:51,980
+True, but a quick inspection costs little
+and gives peace.
+
+49
+00:02:52,330 --> 00:02:55,426
+Exactly, better safe than stranded on a
+highway.
+
+50
+00:02:55,776 --> 00:02:58,080
+Agreed, fix now wins this duel.
+
+51
+00:02:58,430 --> 00:02:59,894
+Service Duel settled.
+
+52
+00:03:00,244 --> 00:03:03,052
+Julien, any final thoughts on the whole
+experience?
+
+53
+00:03:03,401 --> 00:03:07,697
+Honestly, worth every dirham, trust the
+crew completely.
+
+54
+00:03:08,047 --> 00:03:10,087
+Love that honesty and confidence.
+
+55
+00:03:10,437 --> 00:03:12,453
+Thanks for sharing your story with our
+listeners.
+
+56
+00:03:12,803 --> 00:03:15,851
+Merci, keep the podcast rolling.
+
+57
+00:03:16,201 --> 00:03:19,897
+If you need transfer case work, book at
+golden-horse.ae.
+
+58
+00:03:20,247 --> 00:03:24,351
+Open 10 to 8, Al Quoz 3, Warehouse 4,
+Dubai.
+
+59
+00:03:24,701 --> 00:03:27,533
+See you next episode on Car Service
+Podcast.
+
+60
+00:03:27,883 --> 00:03:29,563
+Drive safe, everyone.
+
+61
+00:03:29,912 --> 00:03:32,864
+Did you notice any change in fuel economy
+after the fix?
+
+62
+00:03:33,214 --> 00:03:37,438
+Slight improvement, the engine doesn't
+work as hard now.
+
+63
+00:03:37,788 --> 00:03:40,644
+That's a nice bonus for a transfer case
+repair.
+
+64
+00:03:40,994 --> 00:03:43,490
+Was the team communicative throughout the
+whole process?
+
+65
+00:03:43,840 --> 00:03:48,064
+Yes, they called me when parts arrived and
+when it was ready.
+
+66
+00:03:48,414 --> 00:03:52,062
+Communication builds trust, especially for
+a first visit.
+
+67
+00:03:52,412 --> 00:03:54,524
+Did they offer any warranty on the repair?
+
+68
+00:03:54,874 --> 00:03:59,722
+They mentioned a standard workshop
+guarantee, but I didn't ask details.
+
+69
+00:04:00,071 --> 00:04:02,327
+It's good to know they stand behind their
+work.
+
+70
+00:04:02,677 --> 00:04:05,365
+Would you recommend Golden Horse to other
+French expats?
+
+71
+00:04:05,715 --> 00:04:09,771
+Absolutely, the service felt professional
+and personal.
+
+72
+00:04:10,121 --> 00:04:12,185
+Great to hear a strong endorsement.
+
+73
+00:04:12,535 --> 00:04:15,559
+Before we wrap, any tip for drivers
+hearing a whine?
+
+74
+00:04:15,909 --> 00:04:19,653
+Don't ignore it, get it checked before it
+worsens.
+
+75
+00:04:20,003 --> 00:04:22,043
+Solid advice from experience.
+
+76
+00:04:22,393 --> 00:04:25,273
+Omar, any extra tip for transfer case
+care?
+
+77
+00:04:25,622 --> 00:04:28,862
+Check fluid level and condition at every
+oil change.
+
+78
+00:04:29,212 --> 00:04:31,132
+Simple habit, big payoff.
+
+79
+00:04:31,482 --> 00:04:33,978
+Thanks, Omar, that's a great reminder.
+
+80
+00:04:34,328 --> 00:04:35,312
+My pleasure.
+
+81
+00:04:35,662 --> 00:04:39,430
+Back to Service Duel: fix now vs wait for
+a leaking seal.
+
+82
+00:04:39,780 --> 00:04:42,924
+Fix now — leaks only get worse and
+contaminate fluid.
+
+83
+00:04:43,274 --> 00:04:46,562
+Wait — a tiny seep might be okay for a
+short trip.
+
+84
+00:04:46,912 --> 00:04:49,312
+But contaminated fluid kills gears fast.
+
+85
+00:04:49,661 --> 00:04:52,157
+True, better to replace the seal early.
+
+86
+00:04:52,507 --> 00:04:53,947
+Fix now wins again.
+
+87
+00:04:54,297 --> 00:04:55,377
+Duel settled.
+
+88
+00:04:55,727 --> 00:04:58,319
+Julien, one last word for our listeners?
+
+89
+00:04:58,669 --> 00:05:02,773
+Trust your ears, trust the pros, drive
+safe.
+
+90
+00:05:03,123 --> 00:05:04,299
+Perfect closing.
+
+91
+00:05:04,649 --> 00:05:07,865
+Remember to book at golden-horse.ae for
+any drivetrain work.
+
+92
+00:05:08,215 --> 00:05:12,319
+Open 10 to 8, Al Quoz 3, Warehouse 4,
+Dubai.
+
+93
+00:05:12,668 --> 00:05:14,756
+Thanks for listening to Car Service
+Podcast.
+
+94
+00:05:15,106 --> 00:05:17,746
+See you next time, drive safe everyone.
