@@ -20,7 +20,8 @@
     "https://golden-horse.ae/services/crankshaft-replacement/",
     "https://golden-horse.ae/services/turbocharger-replacement/",
     "https://golden-horse.ae/services/transfer-case-repair/",
-    "https://golden-horse.ae/services/axle-repair/"
+    "https://golden-horse.ae/services/axle-repair/",
+    "https://golden-horse.ae/services/differential-repair/"
   ],
   "episodes": [
     {
@@ -799,6 +800,27 @@
       "pub_date": "Mon, 09 Nov 2026 16:04:57 +0000",
       "duration_sec": 123,
       "bytes": 1971556
+    },
+    {
+      "file": "2026-11-10-car-differential-repair-in-dubai.mp3",
+      "video": "2026-11-10-car-differential-repair-in-dubai.mp4",
+      "srt": "2026-11-10-car-differential-repair-in-dubai.srt",
+      "title": "Car Differential Repair Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Differential Repair at Golden Horse in Dubai: https://golden-horse.ae/services/differential-repair/",
+      "youtube_title": "Review of Car Differential Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/r8l8i92FTHI",
+      "plan": {
+        "story": "second-opinion",
+        "guest": "nigerian-solo",
+        "expert_topic": "suspension",
+        "segment": "warning-sign",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/differential-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Differential_Repair_1.webp",
+      "pub_date": "Tue, 10 Nov 2026 14:58:58 +0000",
+      "duration_sec": 106,
+      "bytes": 1709668
     }
   ]
 }
