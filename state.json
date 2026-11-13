@@ -22,7 +22,8 @@
     "https://golden-horse.ae/services/transfer-case-repair/",
     "https://golden-horse.ae/services/axle-repair/",
     "https://golden-horse.ae/services/differential-repair/",
-    "https://golden-horse.ae/services/hand-brake-repair/"
+    "https://golden-horse.ae/services/hand-brake-repair/",
+    "https://golden-horse.ae/services/brake-light-repair/"
   ],
   "episodes": [
     {
@@ -843,6 +844,27 @@
       "pub_date": "Thu, 12 Nov 2026 15:15:45 +0000",
       "duration_sec": 125,
       "bytes": 2010340
+    },
+    {
+      "file": "2026-11-13-car-brake-light-repair-in-dubai.mp3",
+      "video": "2026-11-13-car-brake-light-repair-in-dubai.mp4",
+      "srt": "2026-11-13-car-brake-light-repair-in-dubai.srt",
+      "title": "Car Brake Light Repair Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Brake Light Repair at Golden Horse in Dubai: https://golden-horse.ae/services/brake-light-repair/",
+      "youtube_title": "Review of Car Brake Light Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/NAERf0HH-v0",
+      "plan": {
+        "story": "luxury-care",
+        "guest": "emirati-local",
+        "expert_topic": "maintenance-plan",
+        "segment": "service-duel",
+        "giveaway": true
+      },
+      "source_url": "https://golden-horse.ae/services/brake-light-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Car-Brake-Light-Repair-3.webp",
+      "pub_date": "Fri, 13 Nov 2026 14:30:20 +0000",
+      "duration_sec": 112,
+      "bytes": 1804900
     }
   ]
 }
