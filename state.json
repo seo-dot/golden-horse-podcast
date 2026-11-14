@@ -23,7 +23,8 @@
     "https://golden-horse.ae/services/axle-repair/",
     "https://golden-horse.ae/services/differential-repair/",
     "https://golden-horse.ae/services/hand-brake-repair/",
-    "https://golden-horse.ae/services/brake-light-repair/"
+    "https://golden-horse.ae/services/brake-light-repair/",
+    "https://golden-horse.ae/services/power-steering-repair/"
   ],
   "episodes": [
     {
@@ -865,6 +866,27 @@
       "pub_date": "Fri, 13 Nov 2026 14:30:20 +0000",
       "duration_sec": 112,
       "bytes": 1804900
+    },
+    {
+      "file": "2026-11-14-car-power-steering-repair-in-dubai.mp3",
+      "video": "2026-11-14-car-power-steering-repair-in-dubai.mp4",
+      "srt": "2026-11-14-car-power-steering-repair-in-dubai.srt",
+      "title": "Power Steering Repair Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Power Steering Repair at Golden Horse in Dubai: https://golden-horse.ae/services/power-steering-repair/",
+      "youtube_title": "Review of Car Power Steering Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/H1Vcb8WCMno",
+      "plan": {
+        "story": "used-car",
+        "guest": "uk-solo",
+        "expert_topic": "oil-interval",
+        "segment": "care-lifehack",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/power-steering-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Power-Steering-Repair-1.webp",
+      "pub_date": "Sat, 14 Nov 2026 13:26:12 +0000",
+      "duration_sec": 112,
+      "bytes": 1807204
     }
   ]
 }
