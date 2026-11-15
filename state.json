@@ -24,7 +24,8 @@
     "https://golden-horse.ae/services/differential-repair/",
     "https://golden-horse.ae/services/hand-brake-repair/",
     "https://golden-horse.ae/services/brake-light-repair/",
-    "https://golden-horse.ae/services/power-steering-repair/"
+    "https://golden-horse.ae/services/power-steering-repair/",
+    "https://golden-horse.ae/services/electric-power-steering-repair/"
   ],
   "episodes": [
     {
@@ -887,6 +888,27 @@
       "pub_date": "Sat, 14 Nov 2026 13:26:12 +0000",
       "duration_sec": 112,
       "bytes": 1807204
+    },
+    {
+      "file": "2026-11-15-car-electric-power-steering-repair-in-dubai.mp3",
+      "video": "2026-11-15-car-electric-power-steering-repair-in-dubai.mp4",
+      "srt": "2026-11-15-car-electric-power-steering-repair-in-dubai.srt",
+      "title": "Electric Power Steering Repair Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Electric Power Steering Repair at Golden Horse in Dubai: https://golden-horse.ae/services/electric-power-steering-repair/",
+      "youtube_title": "Review of Car Electric Power Steering Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/Wvj9EWVFbvk",
+      "plan": {
+        "story": "breakdown",
+        "guest": "german-couple",
+        "expert_topic": "ac-summer",
+        "segment": "warning-sign",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/electric-power-steering-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Electric_Power_Steering_Repair_1.webp",
+      "pub_date": "Sun, 15 Nov 2026 14:03:30 +0000",
+      "duration_sec": 335,
+      "bytes": 5374564
     }
   ]
 }

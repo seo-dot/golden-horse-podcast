@@ -1,0 +1,501 @@
+1
+00:00:00,400 --> 00:00:02,944
+Hey everyone, welcome to Car Service
+Podcast.
+
+2
+00:00:03,294 --> 00:00:07,398
+I'm Sam, and today we're diving into
+electric power steering repair.
+
+3
+00:00:07,748 --> 00:00:11,324
+Our guest is a German driver who had his
+EPS fixed at Golden Horse.
+
+4
+00:00:11,674 --> 00:00:13,186
+Welcome, guest!
+
+5
+00:00:13,535 --> 00:00:15,839
+Thanks, glad to be here.
+
+6
+00:00:16,189 --> 00:00:18,589
+Before we start, tell us a bit about your
+car.
+
+7
+00:00:18,939 --> 00:00:23,931
+I drive a 2022 BMW 3 Series, daily
+commuter.
+
+8
+00:00:24,281 --> 00:00:26,777
+Nice choice, those have electric steering.
+
+9
+00:00:27,127 --> 00:00:30,799
+Exactly, and it's been flawless until last
+week.
+
+10
+00:00:31,149 --> 00:00:32,325
+So what brought you in?
+
+11
+00:00:32,675 --> 00:00:36,227
+My steering got heavy and a warning light
+popped up.
+
+12
+00:00:36,577 --> 00:00:37,897
+That sounds scary.
+
+13
+00:00:38,246 --> 00:00:40,982
+It was, especially on the highway.
+
+14
+00:00:41,332 --> 00:00:42,964
+Did you hear any noise when turning?
+
+15
+00:00:43,314 --> 00:00:46,290
+A faint whine each time I turned the
+wheel.
+
+16
+00:00:46,640 --> 00:00:48,776
+That's a classic EPS symptom.
+
+17
+00:00:49,126 --> 00:00:50,422
+How did you book the appointment?
+
+18
+00:00:50,772 --> 00:00:54,876
+I booked online at golden-horse.ae, super
+easy.
+
+19
+00:00:55,226 --> 00:00:57,074
+Did you get a confirmation quickly?
+
+20
+00:00:57,424 --> 00:01:01,216
+Yes, within minutes I had a slot for the
+next morning.
+
+21
+00:01:01,565 --> 00:01:03,245
+Did you choose a specific time?
+
+22
+00:01:03,595 --> 00:01:06,715
+I picked 9 am, it fit my schedule.
+
+23
+00:01:07,065 --> 00:01:08,433
+Did they send a reminder?
+
+24
+00:01:08,783 --> 00:01:12,071
+I got an SMS reminder the evening before.
+
+25
+00:01:12,421 --> 00:01:15,325
+Nice. What was the workshop like when you
+arrived?
+
+26
+00:01:15,675 --> 00:01:20,163
+Clean, organized, and the team greeted me
+right away.
+
+27
+00:01:20,513 --> 00:01:21,977
+Was there a waiting area?
+
+28
+00:01:22,327 --> 00:01:25,375
+Yes, a comfortable lounge with coffee.
+
+29
+00:01:25,724 --> 00:01:26,972
+Did they offer you a drink?
+
+30
+00:01:27,322 --> 00:01:30,298
+They offered water and Arabic coffee.
+
+31
+00:01:30,648 --> 00:01:33,048
+Did they explain the process before
+starting?
+
+32
+00:01:33,398 --> 00:01:37,262
+They walked me through the diagnosis step
+by step.
+
+33
+00:01:37,612 --> 00:01:39,820
+Did they show you the fault codes on the
+screen?
+
+34
+00:01:40,170 --> 00:01:47,586
+Yes, they highlighted C1234 and C5678.
+
+35
+00:01:47,936 --> 00:01:49,424
+That must have been reassuring.
+
+36
+00:01:49,774 --> 00:01:51,094
+What tools did they use?
+
+37
+00:01:51,443 --> 00:01:55,235
+They connected a scan tool and read the
+fault codes.
+
+38
+00:01:55,585 --> 00:01:56,929
+What codes came up?
+
+39
+00:01:57,279 --> 00:02:05,127
+C1234 for EPS motor fault and C5678 for
+sensor.
+
+40
+00:02:05,477 --> 00:02:07,205
+How long did the diagnosis take?
+
+41
+00:02:07,555 --> 00:02:09,475
+About thirty minutes.
+
+42
+00:02:09,825 --> 00:02:11,673
+Quick diagnosis, nice.
+
+43
+00:02:12,023 --> 00:02:13,871
+Did they explain what the codes mean?
+
+44
+00:02:14,221 --> 00:02:18,085
+They said the motor was failing and the
+sensor out of range.
+
+45
+00:02:18,434 --> 00:02:20,234
+Did they need to order any parts?
+
+46
+00:02:20,584 --> 00:02:23,632
+They had the motor in stock, no wait.
+
+47
+00:02:23,982 --> 00:02:25,446
+How long did the repair take?
+
+48
+00:02:25,796 --> 00:02:29,708
+About three hours total, including
+calibration.
+
+49
+00:02:30,058 --> 00:02:31,810
+Did they replace the motor only?
+
+50
+00:02:32,160 --> 00:02:36,456
+They swapped the motor and recalibrated
+the steering angle sensor.
+
+51
+00:02:36,806 --> 00:02:38,918
+How did they calibrate the steering angle?
+
+52
+00:02:39,268 --> 00:02:43,012
+They used the scan tool to relearn the
+zero point.
+
+53
+00:02:43,361 --> 00:02:44,441
+Sounds precise.
+
+54
+00:02:44,791 --> 00:02:46,207
+Did they test drive the car?
+
+55
+00:02:46,557 --> 00:02:50,157
+Yes, they took it for a short spin to
+verify.
+
+56
+00:02:50,507 --> 00:02:52,451
+How did it feel on the test drive?
+
+57
+00:02:52,801 --> 00:02:56,785
+Steering was light, precise, no warning
+light.
+
+58
+00:02:57,135 --> 00:02:59,271
+Did you notice any difference immediately?
+
+59
+00:02:59,621 --> 00:03:03,053
+Instantly, the wheel felt light and
+centered.
+
+60
+00:03:03,403 --> 00:03:04,363
+Great feedback.
+
+61
+00:03:04,712 --> 00:03:06,176
+Any surprises on the bill?
+
+62
+00:03:06,526 --> 00:03:12,502
+They quoted 1140 AED upfront, no hidden
+fees.
+
+63
+00:03:12,852 --> 00:03:14,772
+That matches the listed price.
+
+64
+00:03:15,122 --> 00:03:16,970
+Did they break down labor and parts?
+
+65
+00:03:17,320 --> 00:03:22,504
+Yes, the invoice showed labor, motor, and
+calibration.
+
+66
+00:03:22,854 --> 00:03:24,318
+Was the invoice itemized?
+
+67
+00:03:24,668 --> 00:03:27,908
+Every line item was listed with part
+numbers.
+
+68
+00:03:28,258 --> 00:03:29,794
+Transparent pricing.
+
+69
+00:03:30,143 --> 00:03:32,423
+Did they ask for approval before starting?
+
+70
+00:03:32,773 --> 00:03:36,013
+They called me to confirm the motor
+replacement.
+
+71
+00:03:36,363 --> 00:03:38,139
+Did they follow up after the repair?
+
+72
+00:03:38,489 --> 00:03:41,921
+They called the next day to confirm
+everything.
+
+73
+00:03:42,271 --> 00:03:43,807
+Excellent aftercare.
+
+74
+00:03:44,157 --> 00:03:45,333
+Great communication.
+
+75
+00:03:45,683 --> 00:03:47,219
+How does the car feel now?
+
+76
+00:03:47,569 --> 00:03:52,105
+Steering is light, precise, and the
+warning light is gone.
+
+77
+00:03:52,454 --> 00:03:54,470
+How was the overall service experience?
+
+78
+00:03:54,820 --> 00:03:59,548
+Crystal clear, they showed me the old part
+and explained everything.
+
+79
+00:03:59,898 --> 00:04:00,882
+Would you go back?
+
+80
+00:04:01,232 --> 00:04:03,848
+Absolutely, trust earned.
+
+81
+00:04:04,198 --> 00:04:05,182
+Thanks for sharing that.
+
+82
+00:04:05,532 --> 00:04:07,260
+We appreciate your detail.
+
+83
+00:04:07,610 --> 00:04:09,722
+It helps other drivers know what to
+expect.
+
+84
+00:04:10,072 --> 00:04:12,544
+Now let's bring in Omar for a quick tip.
+
+85
+00:04:12,893 --> 00:04:16,205
+Omar, how do I keep my AC healthy through
+Dubai summer?
+
+86
+00:04:16,555 --> 00:04:23,923
+Regular AC diagnostics at Golden Horse can
+catch issues early; they offer AC
+
+87
+00:04:24,273 --> 00:04:25,185
+Good to know.
+
+88
+00:04:25,535 --> 00:04:27,047
+Can I book that online too?
+
+89
+00:04:27,397 --> 00:04:31,309
+Yes, the same website handles AC
+diagnostics booking.
+
+90
+00:04:31,659 --> 00:04:33,507
+How often should I schedule it?
+
+91
+00:04:33,857 --> 00:04:37,121
+Golden Horse recommends a check before
+each summer season.
+
+92
+00:04:37,471 --> 00:04:39,175
+Any tip on cabin filter?
+
+93
+00:04:39,524 --> 00:04:43,052
+Golden Horse suggests replacing the cabin
+filter annually.
+
+94
+00:04:43,402 --> 00:04:44,194
+Good to know.
+
+95
+00:04:44,544 --> 00:04:45,792
+That's a handy reminder.
+
+96
+00:04:46,142 --> 00:04:47,534
+I'll book mine this week.
+
+97
+00:04:47,884 --> 00:04:49,732
+Time for our Warning Sign of the Week.
+
+98
+00:04:50,082 --> 00:04:54,498
+If your steering feels heavy or a warning
+light appears, get it checked immediately.
+
+99
+00:04:54,848 --> 00:04:56,960
+Ignoring it can lead to loss of control.
+
+100
+00:04:57,310 --> 00:04:59,110
+Especially at high speeds.
+
+101
+00:04:59,459 --> 00:05:02,435
+Another sign is a vibrating steering wheel
+on smooth roads.
+
+102
+00:05:02,785 --> 00:05:05,905
+That can indicate a worn EPS sensor or
+motor.
+
+103
+00:05:06,255 --> 00:05:08,991
+Also watch for a pulling sensation to one
+side.
+
+104
+00:05:09,341 --> 00:05:11,525
+That can mean a misaligned steering rack.
+
+105
+00:05:11,875 --> 00:05:13,531
+Regular alignment checks help.
+
+106
+00:05:13,881 --> 00:05:14,625
+Exactly.
+
+107
+00:05:14,975 --> 00:05:17,639
+We'll be back next week with a brake
+repair story.
+
+108
+00:05:17,989 --> 00:05:19,453
+Stay tuned for more tips.
+
+109
+00:05:19,802 --> 00:05:21,866
+Thanks again to our guest and Omar.
+
+110
+00:05:22,216 --> 00:05:23,536
+Drive safe everyone.
+
+111
+00:05:23,886 --> 00:05:25,998
+Follow us on Twitter for quick tips.
+
+112
+00:05:26,348 --> 00:05:28,700
+Next episode we cover suspension upgrades.
+
+113
+00:05:29,050 --> 00:05:31,042
+Thanks for listening, drive safe.
+
+114
+00:05:31,392 --> 00:05:34,080
+Book your next service at golden-horse.ae.
+
+115
+00:05:34,430 --> 00:05:35,462
+See you next time.
