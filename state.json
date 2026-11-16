@@ -25,7 +25,8 @@
     "https://golden-horse.ae/services/hand-brake-repair/",
     "https://golden-horse.ae/services/brake-light-repair/",
     "https://golden-horse.ae/services/power-steering-repair/",
-    "https://golden-horse.ae/services/electric-power-steering-repair/"
+    "https://golden-horse.ae/services/electric-power-steering-repair/",
+    "https://golden-horse.ae/services/power-steering-oil-change/"
   ],
   "episodes": [
     {
@@ -909,6 +910,27 @@
       "pub_date": "Sun, 15 Nov 2026 14:03:30 +0000",
       "duration_sec": 335,
       "bytes": 5374564
+    },
+    {
+      "file": "2026-11-16-car-power-steering-oil-change-in-dubai.mp3",
+      "video": "2026-11-16-car-power-steering-oil-change-in-dubai.mp4",
+      "srt": "2026-11-16-car-power-steering-oil-change-in-dubai.srt",
+      "title": "Power Steering Oil Change Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Power Steering Oil Change at Golden Horse in Dubai: https://golden-horse.ae/services/power-steering-oil-change/",
+      "youtube_title": "Review of Car Power Steering Oil Change at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/k23bTlLYllI",
+      "plan": {
+        "story": "warning-light",
+        "guest": "indian-pro",
+        "expert_topic": "brakes-signs",
+        "segment": "myth-busting",
+        "giveaway": true
+      },
+      "source_url": "https://golden-horse.ae/services/power-steering-oil-change/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/03/power_steering_oil_change_cost_3.webp",
+      "pub_date": "Mon, 16 Nov 2026 15:36:57 +0000",
+      "duration_sec": 123,
+      "bytes": 1971940
     }
   ]
 }
