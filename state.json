@@ -26,7 +26,8 @@
     "https://golden-horse.ae/services/brake-light-repair/",
     "https://golden-horse.ae/services/power-steering-repair/",
     "https://golden-horse.ae/services/electric-power-steering-repair/",
-    "https://golden-horse.ae/services/power-steering-oil-change/"
+    "https://golden-horse.ae/services/power-steering-oil-change/",
+    "https://golden-horse.ae/services/steering-wheel-refurbishment/"
   ],
   "episodes": [
     {
@@ -931,6 +932,27 @@
       "pub_date": "Mon, 16 Nov 2026 15:36:57 +0000",
       "duration_sec": 123,
       "bytes": 1971940
+    },
+    {
+      "file": "2026-11-17-car-steering-wheel-refurbishment-in-dubai.mp3",
+      "video": "2026-11-17-car-steering-wheel-refurbishment-in-dubai.mp4",
+      "srt": "2026-11-17-car-steering-wheel-refurbishment-in-dubai.srt",
+      "title": "Steering Wheel Refurbishment Chat",
+      "description": "Car Service Podcast: a guest's experience with Car Steering Wheel Refurbishment at Golden Horse in Dubai: https://golden-horse.ae/services/steering-wheel-refurbishment/",
+      "youtube_title": "Review of Car Steering Wheel Refurbishment at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/LMr-R5zcD1k",
+      "plan": {
+        "story": "overdue-service",
+        "guest": "saudi-local",
+        "expert_topic": "warning-lights",
+        "segment": "service-duel",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/steering-wheel-refurbishment/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/03/Steering_wheel_refurbishment.webp",
+      "pub_date": "Tue, 17 Nov 2026 15:55:44 +0000",
+      "duration_sec": 119,
+      "bytes": 1914724
     }
   ]
 }
