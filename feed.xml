@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/golden-horse-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 15:50:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:42:47 +0000</lastBuildDate>
     <itunes:author>Golden Horse</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/golden-horse-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Service Podcast — real customer experiences at Golden Horse Car Service in Dubai: engine, AC, brakes, suspension, transmission, bodywork, detailing and more, all makes incl. luxury. Book at https://golden-horse.ae</itunes:summary>
+    <item>
+      <title>Fuel Injection Pump Repair Experience</title>
+      <link>https://golden-horse.ae/services/fuel-injection-pump-repair/</link>
+      <description>Car Service Podcast: a guest's experience with Car Fuel Injection Pump Repair at Golden Horse in Dubai: https://golden-horse.ae/services/fuel-injection-pump-repair/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/golden-horse-podcast/episodes/2026-11-19-car-fuel-injection-pump-repair-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/golden-horse-podcast/episodes/2026-11-19-car-fuel-injection-pump-repair-in-dubai.mp3" length="2216547" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Nov 2026 15:42:47 +0000</pubDate>
+      <itunes:duration>02:18</itunes:duration>
+    </item>
     <item>
       <title>Power Steering Line Repair Experience</title>
       <link>https://golden-horse.ae/services/power-steering-line-repair/</link>
