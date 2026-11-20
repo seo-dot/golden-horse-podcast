@@ -29,7 +29,8 @@
     "https://golden-horse.ae/services/power-steering-oil-change/",
     "https://golden-horse.ae/services/steering-wheel-refurbishment/",
     "https://golden-horse.ae/services/power-steering-line-repair/",
-    "https://golden-horse.ae/services/fuel-injection-pump-repair/"
+    "https://golden-horse.ae/services/fuel-injection-pump-repair/",
+    "https://golden-horse.ae/services/car-gas-tank-repair/"
   ],
   "episodes": [
     {
@@ -997,6 +998,27 @@
       "pub_date": "Thu, 19 Nov 2026 15:42:47 +0000",
       "duration_sec": 138,
       "bytes": 2216547
+    },
+    {
+      "file": "2026-11-20-car-gas-tank-repair-in-dubai.mp3",
+      "video": "2026-11-20-car-gas-tank-repair-in-dubai.mp4",
+      "srt": "2026-11-20-car-gas-tank-repair-in-dubai.srt",
+      "title": "Car Gas Tank Repair Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Gas Tank Repair at Golden Horse in Dubai: https://golden-horse.ae/services/car-gas-tank-repair/",
+      "youtube_title": "Review of Car Gas Tank Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/44ADxluJkNk",
+      "plan": {
+        "story": "luxury-care",
+        "guest": "russian-expat",
+        "expert_topic": "pre-purchase",
+        "segment": "myth-busting",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/car-gas-tank-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Car_Gas_Tank_Repair_1.webp",
+      "pub_date": "Fri, 20 Nov 2026 15:23:03 +0000",
+      "duration_sec": 127,
+      "bytes": 2046051
     }
   ]
 }
