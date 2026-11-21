@@ -30,7 +30,8 @@
     "https://golden-horse.ae/services/steering-wheel-refurbishment/",
     "https://golden-horse.ae/services/power-steering-line-repair/",
     "https://golden-horse.ae/services/fuel-injection-pump-repair/",
-    "https://golden-horse.ae/services/car-gas-tank-repair/"
+    "https://golden-horse.ae/services/car-gas-tank-repair/",
+    "https://golden-horse.ae/services/car-ac-leak-repair/"
   ],
   "episodes": [
     {
@@ -1019,6 +1020,27 @@
       "pub_date": "Fri, 20 Nov 2026 15:23:03 +0000",
       "duration_sec": 127,
       "bytes": 2046051
+    },
+    {
+      "file": "2026-11-21-car-ac-leak-repair-in-dubai.mp3",
+      "video": "2026-11-21-car-ac-leak-repair-in-dubai.mp4",
+      "srt": "2026-11-21-car-ac-leak-repair-in-dubai.srt",
+      "title": "AC Leak Repair & Pre-Purchase Surprises",
+      "description": "Car Service Podcast: a guest's experience with Car AC Leak Repair at Golden Horse in Dubai: https://golden-horse.ae/services/car-ac-leak-repair/",
+      "youtube_title": "Review of Car AC Leak Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/FciN0ZkS54I",
+      "plan": {
+        "story": "used-car",
+        "guest": "nigerian-solo",
+        "expert_topic": "maintenance-plan",
+        "segment": "service-duel",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/car-ac-leak-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Car-Air-Conditioner-Leak-Repair-2.webp",
+      "pub_date": "Sat, 21 Nov 2026 14:35:51 +0000",
+      "duration_sec": 267,
+      "bytes": 4275939
     }
   ]
 }
