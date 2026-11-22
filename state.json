@@ -31,7 +31,8 @@
     "https://golden-horse.ae/services/power-steering-line-repair/",
     "https://golden-horse.ae/services/fuel-injection-pump-repair/",
     "https://golden-horse.ae/services/car-gas-tank-repair/",
-    "https://golden-horse.ae/services/car-ac-leak-repair/"
+    "https://golden-horse.ae/services/car-ac-leak-repair/",
+    "https://golden-horse.ae/services/car-ac-condenser-repair/"
   ],
   "episodes": [
     {
@@ -1041,6 +1042,27 @@
       "pub_date": "Sat, 21 Nov 2026 14:35:51 +0000",
       "duration_sec": 267,
       "bytes": 4275939
+    },
+    {
+      "file": "2026-11-22-car-ac-condenser-repair-in-dubai.mp3",
+      "video": "2026-11-22-car-ac-condenser-repair-in-dubai.mp4",
+      "srt": "2026-11-22-car-ac-condenser-repair-in-dubai.srt",
+      "title": "Car AC Condenser Repair Experience",
+      "description": "Car Service Podcast: a guest's experience with Car AC Condenser Repair at Golden Horse in Dubai: https://golden-horse.ae/services/car-ac-condenser-repair/",
+      "youtube_title": "Review of Car AC Condenser Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/6Bxyp1mSw3s",
+      "plan": {
+        "story": "breakdown",
+        "guest": "filipino-pro",
+        "expert_topic": "oil-interval",
+        "segment": "care-lifehack",
+        "giveaway": true
+      },
+      "source_url": "https://golden-horse.ae/services/car-ac-condenser-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/AC-Condenser-Repair-5.webp",
+      "pub_date": "Sun, 22 Nov 2026 14:46:32 +0000",
+      "duration_sec": 293,
+      "bytes": 4701411
     }
   ]
 }
