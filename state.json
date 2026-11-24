@@ -33,7 +33,8 @@
     "https://golden-horse.ae/services/car-gas-tank-repair/",
     "https://golden-horse.ae/services/car-ac-leak-repair/",
     "https://golden-horse.ae/services/car-ac-condenser-repair/",
-    "https://golden-horse.ae/services/car-ac-compressor-leak-repair/"
+    "https://golden-horse.ae/services/car-ac-compressor-leak-repair/",
+    "https://golden-horse.ae/services/car-air-compressor-repair/"
   ],
   "episodes": [
     {
@@ -1085,6 +1086,27 @@
       "pub_date": "Mon, 23 Nov 2026 17:59:34 +0000",
       "duration_sec": 117,
       "bytes": 1877859
+    },
+    {
+      "file": "2026-11-24-car-ac-compressor-repair-in-dubai.mp3",
+      "video": "2026-11-24-car-ac-compressor-repair-in-dubai.mp4",
+      "srt": "2026-11-24-car-ac-compressor-repair-in-dubai.srt",
+      "title": "Car AC Compressor Repair – Guest Experience",
+      "description": "Car Service Podcast: a guest's experience with Car AC Compressor Repair at Golden Horse in Dubai: https://golden-horse.ae/services/car-air-compressor-repair/",
+      "youtube_title": "Review of Car AC Compressor Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/qirqfL6coBw",
+      "plan": {
+        "story": "overdue-service",
+        "guest": "uk-solo",
+        "expert_topic": "brakes-signs",
+        "segment": "myth-busting",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/car-air-compressor-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Car_Air_Compressor_Repair_4.webp",
+      "pub_date": "Tue, 24 Nov 2026 01:55:07 +0000",
+      "duration_sec": 95,
+      "bytes": 1527651
     }
   ]
 }
