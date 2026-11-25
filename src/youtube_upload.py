@@ -6,7 +6,7 @@
 Загружает видео на тот канал, которому принадлежит refresh-токен (т.е. авторизуйся
 Google-аккаунтом, владеющим нужным каналом).
 """
-from . import config, publish_schedule
+from . import config, localizations, publish_schedule
 
 SCOPES = ["https://www.googleapis.com/auth/youtube.upload",
           "https://www.googleapis.com/auth/youtube.force-ssl"]
@@ -41,6 +41,7 @@ def upload(video_path, title, description, tags=None, srt_path=None):
         "description": description[:4900],
         "tags": (tags or [])[:30],
         "categoryId": config.YOUTUBE_CATEGORY_ID,
+        "defaultLanguage": localizations.DEFAULT_LANGUAGE,
     }
 
     # Естественное время публикации: private + publishAt в случайном вечернем окне.
@@ -84,6 +85,10 @@ def upload(video_path, title, description, tags=None, srt_path=None):
         response = _insert(config.YOUTUBE_PRIVACY, None)
     video_id = response["id"]
     print(f"[youtube] видео загружено: {video_id}")
+
+    # Свои переводы тайтла/описания (оригинальный текст), чтобы YouTube не переводил бренды
+    # машинно. Не критично: любая ошибка только логируется.
+    localizations.apply_localizations(yt, video_id, snippet)
 
     # Отдельная дорожка субтитров (лучше для SEO и доступности).
     # Видео не должно падать из-за субтитров — все ошибки логируем и продолжаем.
