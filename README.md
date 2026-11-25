@@ -218,3 +218,13 @@ octane-podcast/
 ├─ requirements.txt
 └─ .env.example
 ```
+
+## Естественное время публикации на YouTube
+
+Видео заливается как `private` с `publishAt` — случайное время в вечернем окне канала
+(по Дубаю), выбор детерминирован по дате. Работает только при `YOUTUBE_PRIVACY=public`;
+`private`/`unlisted` не затрагиваются. Если YouTube отклонит `publishAt`, видео публикуется сразу.
+Необязательные переменные (GitHub → Variables): `RANDOM_PUBLISH=false` (выключить),
+`PUBLISH_WINDOW=18:00-21:30`, `PUBLISH_TZ`, и для подкастов `RANDOM_SKIP_DAYS=false`
+(по умолчанию 1–2 случайных дня в неделю без выпуска). Проверка без загрузки:
+`python -m src.publish_schedule`; тесты: `python -m unittest discover -s tests -t .`

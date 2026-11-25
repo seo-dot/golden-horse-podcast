@@ -75,6 +75,10 @@ jobs:
           RSS_ENABLED: ${{ vars.RSS_ENABLED }}
           YOUTUBE_ENABLED: ${{ vars.YOUTUBE_ENABLED }}
           YOUTUBE_PRIVACY: ${{ vars.YOUTUBE_PRIVACY }}
+          # необязательно: окно/выключатели случайного времени публикации (см. src/publish_schedule.py)
+          RANDOM_PUBLISH: ${{ vars.RANDOM_PUBLISH }}
+          PUBLISH_WINDOW: ${{ vars.PUBLISH_WINDOW }}
+          RANDOM_SKIP_DAYS: ${{ vars.RANDOM_SKIP_DAYS }}
           YOUTUBE_CATEGORY_ID: ${{ vars.YOUTUBE_CATEGORY_ID }}
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}

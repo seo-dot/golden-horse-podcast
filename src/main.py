@@ -11,7 +11,7 @@ import sys
 import datetime
 from email.utils import parsedate_to_datetime
 from . import (config, state as st, fetch_car, generate_script, synthesize,
-               subtitles, build_video, build_feed)
+               subtitles, build_video, build_feed, publish_schedule)
 
 
 def slugify(text):
@@ -142,6 +142,14 @@ def main():
     force = _force_enabled() or "--force" in sys.argv
     if _has_episode_today(state) and not force:
         print("[main] сегодня уже есть выпуск, пропускаю (FORCE=true для повтора).")
+        return 0
+
+    # Естественный ритм: 1-2 дня в неделю выпуска нет (выбор детерминирован по дате,
+    # поэтому страховочный cron-слот того же дня тоже пропустит). Очередь машин от этого
+    # не страдает: pick_next_url не зависит от даты, просто выпуск уходит на следующий день.
+    # FORCE=true / ручной запуск с force снимает пропуск.
+    if publish_schedule.should_skip_today() and not force:
+        print("[main] сегодня выходной день по расписанию (случайный пропуск), пропускаю.")
         return 0
 
     made = 0
