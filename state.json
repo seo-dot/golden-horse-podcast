@@ -34,7 +34,8 @@
     "https://golden-horse.ae/services/car-ac-leak-repair/",
     "https://golden-horse.ae/services/car-ac-condenser-repair/",
     "https://golden-horse.ae/services/car-ac-compressor-leak-repair/",
-    "https://golden-horse.ae/services/car-air-compressor-repair/"
+    "https://golden-horse.ae/services/car-air-compressor-repair/",
+    "https://golden-horse.ae/services/battery-cable-replacement/"
   ],
   "episodes": [
     {
@@ -1107,6 +1108,27 @@
       "pub_date": "Tue, 24 Nov 2026 01:55:07 +0000",
       "duration_sec": 95,
       "bytes": 1527651
+    },
+    {
+      "file": "2026-11-25-car-battery-cable-replacement-in-dubai.mp3",
+      "video": "2026-11-25-car-battery-cable-replacement-in-dubai.mp4",
+      "srt": "2026-11-25-car-battery-cable-replacement-in-dubai.srt",
+      "title": "Battery Cable Replacement Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Battery Cable Replacement at Golden Horse in Dubai: https://golden-horse.ae/services/battery-cable-replacement/",
+      "youtube_title": "Review of Car Battery Cable Replacement at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/xTBPXqI80o0",
+      "plan": {
+        "story": "second-opinion",
+        "guest": "german-couple",
+        "expert_topic": "warning-lights",
+        "segment": "service-duel",
+        "giveaway": true
+      },
+      "source_url": "https://golden-horse.ae/services/battery-cable-replacement/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Battery_Cable_Replacement_1.webp",
+      "pub_date": "Wed, 25 Nov 2026 17:08:37 +0000",
+      "duration_sec": 154,
+      "bytes": 2475747
     }
   ]
 }
