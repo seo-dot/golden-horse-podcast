@@ -6,7 +6,7 @@
 Загружает видео на тот канал, которому принадлежит refresh-токен (т.е. авторизуйся
 Google-аккаунтом, владеющим нужным каналом).
 """
-from . import config
+from . import config, publish_schedule
 
 SCOPES = ["https://www.googleapis.com/auth/youtube.upload",
           "https://www.googleapis.com/auth/youtube.force-ssl"]
@@ -32,30 +32,56 @@ def _service():
 
 def upload(video_path, title, description, tags=None, srt_path=None):
     """Загружает видео. Возвращает {video_id, url} или бросает исключение."""
+    from googleapiclient.errors import HttpError
     from googleapiclient.http import MediaFileUpload
 
     yt = _service()
-    body = {
-        "snippet": {
-            "title": title[:100],
-            "description": description[:4900],
-            "tags": (tags or [])[:30],
-            "categoryId": config.YOUTUBE_CATEGORY_ID,
-        },
-        "status": {
-            "privacyStatus": config.YOUTUBE_PRIVACY,
-            "selfDeclaredMadeForKids": False,
-        },
+    snippet = {
+        "title": title[:100],
+        "description": description[:4900],
+        "tags": (tags or [])[:30],
+        "categoryId": config.YOUTUBE_CATEGORY_ID,
     }
-    media = MediaFileUpload(video_path, mimetype="video/mp4",
-                            chunksize=-1, resumable=True)
-    req = yt.videos().insert(part="snippet,status", body=body, media_body=media)
 
-    response = None
-    while response is None:
-        status, response = req.next_chunk()
-        if status:
-            print(f"[youtube] загрузка {int(status.progress() * 100)}%")
+    # Естественное время публикации: private + publishAt в случайном вечернем окне.
+    # Только для public-каналов (private/unlisted не трогаем); любой сбой -> публикуем
+    # сразу, как раньше, чтобы видео не потерялось.
+    publish_at = None
+    if publish_schedule.schedule_enabled(config.YOUTUBE_PRIVACY):
+        try:
+            publish_at = publish_schedule.publish_at_iso(extra=title)
+        except Exception as e:
+            print(f"[youtube] время публикации не выбрано ({e}) — публикую сразу")
+
+    def _insert(privacy, when):
+        status_body = {"privacyStatus": privacy, "selfDeclaredMadeForKids": False}
+        if when:
+            status_body["publishAt"] = when
+        media = MediaFileUpload(video_path, mimetype="video/mp4",
+                                chunksize=-1, resumable=True)
+        req = yt.videos().insert(part="snippet,status",
+                                 body={"snippet": snippet, "status": status_body},
+                                 media_body=media)
+        resp = None
+        while resp is None:
+            status, resp = req.next_chunk()
+            if status:
+                print(f"[youtube] загрузка {int(status.progress() * 100)}%")
+        return resp
+
+    if publish_at:
+        try:
+            response = _insert("private", publish_at)
+            print(f"[youtube] публикация запланирована на {publish_at} (UTC)")
+        except HttpError as e:
+            if getattr(getattr(e, "resp", None), "status", None) != 400:
+                raise
+            # YouTube отклонил метаданные (видео не создано) — публикуем сразу.
+            print(f"[youtube] publishAt отклонён ({e}) — публикую сразу")
+            publish_at = None
+            response = _insert(config.YOUTUBE_PRIVACY, None)
+    else:
+        response = _insert(config.YOUTUBE_PRIVACY, None)
     video_id = response["id"]
     print(f"[youtube] видео загружено: {video_id}")
 
@@ -67,7 +93,8 @@ def upload(video_path, title, description, tags=None, srt_path=None):
         except Exception as e:
             print(f"[youtube] субтитры-дорожка не загрузилась (не критично): {e}")
 
-    return {"video_id": video_id, "url": f"https://youtu.be/{video_id}"}
+    return {"video_id": video_id, "url": f"https://youtu.be/{video_id}",
+            "publish_at": publish_at or ""}
 
 
 def _upload_caption(yt, video_id, srt_path, retries=3, delay=45):
