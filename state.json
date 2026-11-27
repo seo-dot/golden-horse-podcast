@@ -36,7 +36,8 @@
     "https://golden-horse.ae/services/car-ac-compressor-leak-repair/",
     "https://golden-horse.ae/services/car-air-compressor-repair/",
     "https://golden-horse.ae/services/battery-cable-replacement/",
-    "https://golden-horse.ae/services/immobilizer-repair/"
+    "https://golden-horse.ae/services/immobilizer-repair/",
+    "https://golden-horse.ae/services/car-electric-seat-repair/"
   ],
   "episodes": [
     {
@@ -1151,6 +1152,27 @@
       "pub_date": "Thu, 26 Nov 2026 16:48:28 +0000",
       "duration_sec": 132,
       "bytes": 2120547
+    },
+    {
+      "file": "2026-11-27-car-electric-seat-repair-in-dubai.mp3",
+      "video": "2026-11-27-car-electric-seat-repair-in-dubai.mp4",
+      "srt": "2026-11-27-car-electric-seat-repair-in-dubai.srt",
+      "title": "Car Electric Seat Repair Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Electric Seat Repair at Golden Horse in Dubai: https://golden-horse.ae/services/car-electric-seat-repair/",
+      "youtube_title": "Review of Car Electric Seat Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/TCbxmkBvsqI",
+      "plan": {
+        "story": "luxury-care",
+        "guest": "saudi-local",
+        "expert_topic": "suspension",
+        "segment": "warning-sign",
+        "giveaway": false
+      },
+      "source_url": "https://golden-horse.ae/services/car-electric-seat-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Car-Electric-Seat-Repair-2.webp",
+      "pub_date": "Fri, 27 Nov 2026 22:42:39 +0000",
+      "duration_sec": 124,
+      "bytes": 1990755
     }
   ]
 }
