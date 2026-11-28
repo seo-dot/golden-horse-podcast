@@ -37,7 +37,8 @@
     "https://golden-horse.ae/services/car-air-compressor-repair/",
     "https://golden-horse.ae/services/battery-cable-replacement/",
     "https://golden-horse.ae/services/immobilizer-repair/",
-    "https://golden-horse.ae/services/car-electric-seat-repair/"
+    "https://golden-horse.ae/services/car-electric-seat-repair/",
+    "https://golden-horse.ae/services/car-frame-repair/"
   ],
   "episodes": [
     {
@@ -1173,6 +1174,27 @@
       "pub_date": "Fri, 27 Nov 2026 22:42:39 +0000",
       "duration_sec": 124,
       "bytes": 1990755
+    },
+    {
+      "file": "2026-11-28-car-frame-repair-in-dubai.mp3",
+      "video": "2026-11-28-car-frame-repair-in-dubai.mp4",
+      "srt": "2026-11-28-car-frame-repair-in-dubai.srt",
+      "title": "Car Frame Repair Experience",
+      "description": "Car Service Podcast: a guest's experience with Car Frame Repair at Golden Horse in Dubai: https://golden-horse.ae/services/car-frame-repair/",
+      "youtube_title": "Review of Car Frame Repair at Golden Horse Dubai",
+      "youtube_url": "https://youtu.be/bLdgfoGLyeQ",
+      "plan": {
+        "story": "used-car",
+        "guest": "american-creator",
+        "expert_topic": "pre-purchase",
+        "segment": "myth-busting",
+        "giveaway": true
+      },
+      "source_url": "https://golden-horse.ae/services/car-frame-repair/",
+      "image": "https://golden-horse.ae/wp-content/uploads/2025/04/Frame-Repair-Car-4.webp",
+      "pub_date": "Sat, 28 Nov 2026 15:28:14 +0000",
+      "duration_sec": 150,
+      "bytes": 2404707
     }
   ]
 }
